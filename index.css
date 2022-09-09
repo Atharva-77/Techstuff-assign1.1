@@ -195,11 +195,13 @@ body
     font-size: small;
     font-weight: 600;
     margin-bottom: 3px;
+    color: black;
 }
 
 .LLC-bottom-text
 {
     font-size: small;
+    color: black;
     /* font-weight: 600; */
 }
 /* .Text-LLC-div
